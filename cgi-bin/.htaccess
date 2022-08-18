@@ -1,0 +1,2 @@
+Action cgi-node /cgi-bin/node-cgi.js
+AddHandler cgi-node .ejs
